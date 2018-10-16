@@ -1,0 +1,21 @@
+NAME: Wai Yan (Will) Htun
+EMAIL: willhtun42@gmail.com
+ID: 104941153
+
+build_run.png
+	Compilation and execution of a trivial hello.c program on the BeaglenBone.
+
+connected.png
+	Shows the ip address of the BeagleBone to be able to connect wirelessly.
+
+copy.png
+	Using pscp to copy a local file (hello.c) to the host server (BeagleBone) using username and password.
+
+git.png
+	Cloning a git repository.
+
+my_beaglebone.jpg
+	Selfie of me with my BeagleBone.
+
+Makefile
+	Makefile to compress all the above files into a tarball.
